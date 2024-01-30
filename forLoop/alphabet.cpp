@@ -6,7 +6,13 @@ int main(){
         cout<<i<<" ";
     }
     cout<<endl;
-    cout<<endl;
+    int i;
+    
+    for(i=5; i<=14; i++)
+        cout<<i<<" ";
+    
+    cout<<i;
+    
 
     return 0;
 }
